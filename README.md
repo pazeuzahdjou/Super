@@ -1,5 +1,6 @@
 # 🍍 Belaba shop
 
+![capture d'écran](/src/assets/capture.png)
 # Projet React + Vite : Page d'accueil modulaire
 
 ## Description
