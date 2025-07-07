@@ -56,9 +56,7 @@ src/
 - `pages/` : pages principales de l’application
 - `App.tsx` : composant racine
 
----
-
-## Installation et lancement
+--
 
 1. Cloner le dépôt :
 
@@ -103,36 +101,11 @@ npm install
 
 ---
 
-## Bonnes pratiques appliquées
-
-- Typage strict avec TypeScript pour toutes les props et interfaces
-- Composants fonctionnels avec hooks React
-- Responsive design mobile-first avec Tailwind CSS
-- Séparation claire des responsabilités (composants, layouts, pages)
-- Utilisation cohérente des icônes Lucide React avec tailles et couleurs adaptées
-- Nommage clair et cohérent (PascalCase pour composants, camelCase pour variables)
-
----
-
-## Améliorations possibles (bonus)
-
-- Ajout d’animations avancées avec Tailwind ou Framer Motion
-- Implémentation d’un système de thème clair/sombre
-- Création de variantes de composants pour plus de flexibilité
-- Ajout de tests unitaires avec Jest et React Testing Library
-- Intégration d’un routeur (React Router) pour navigation multi-pages
-
----
-
 ## Auteur
 
-- Votre nom
-- Contact : votre.email@example.com
-- GitHub : [votre-utilisateur](https://github.com/votre-utilisateur)
+- Votre ATCHOUAMONE Pazeu zahdjou
+- Contact :pazeuzahdjoutchouamone@gmail.com
+- GitHub : [Pazeuzahdjou](https://github.com/pazeuzahdjou)
 
----
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+--
 
