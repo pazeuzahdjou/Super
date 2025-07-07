@@ -10,13 +10,15 @@ function App() {
   return (
     <>
       <Header/>
+      <MainLayout>
       <Hero/>
       <Features/>
-      <MainLayout>
         <Dashboard/>
         <h1><b>Bienvenue</b></h1>
         <p>Voici l'interface d'un site reponsive et dynamique</p>
       </MainLayout>
+     
+
     </>
   )
 }
